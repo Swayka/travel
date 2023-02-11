@@ -1,0 +1,36 @@
+.section-title {
+  font-size: 33px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0;
+  transition: transform 0.4s ease-in;
+}
+
+@media screen and (min-width: 1920px) {
+  .section-title {
+    font-size: 50px;
+  }
+}
+
+@media screen and (min-width: 1440px) and (max-width: 1919px) {
+  .section-title {
+    font-size: 38px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .section-title {
+    font-size: 27px;
+  }
+}
+
+@media screen and (min-width: 450px) and (max-width: 1023px) {
+  .section-title {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .section-title {
+    font-size: 16px;
+  }
+}
