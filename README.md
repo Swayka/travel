@@ -1,6 +1,6 @@
 # Проект "Размышление о путешествии"
 
-### [Сайт проекта](https://edmosha.github.io/travel/)
+### [Сайт проекта](https://swayka.github.io/travel/)
 
 ### Обзор
 
